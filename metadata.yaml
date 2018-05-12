@@ -1,0 +1,33 @@
+_repo: Unwise-Child_23335
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23335-h/images/illus-cover.jpg
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garret, Randall
+    - Garrett, Gordon Randall
+    - Jorgensen, Ivar
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23335'
+  lccn: '60013524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, American'
+- !lcc 'PS'
+title: Unwise Child
+url: http://www.gutenberg.org/ebooks/23335
